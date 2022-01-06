@@ -17,6 +17,7 @@ We use SMOID dataset from [SMOID](https://github.com/MichaelHYJiang/Learning-to-
 - opencv-python
 - scikit-image
 - tensorboard
+- For 3D deformable compile process please refer [D3Dnet](https://github.com/XinyiYing/D3Dnet)
 
 ### Train and Test
 
@@ -43,3 +44,4 @@ If you use any part of our research, please consider citing:
 Our work and implementations are inspired by following projects:
 [ESTRNN](https://github.com/zzh-tech/ESTRNN)
 [SMOID](https://github.com/MichaelHYJiang/Learning-to-See-Moving-Objects-in-the-Dark)
+[D3Dnet](https://github.com/XinyiYing/D3Dnet)
